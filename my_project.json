@@ -1,0 +1,21 @@
+{
+  "front-version": "2.17.2",
+  "version": 3,
+  "nodes": [
+    {
+      "type": "Project",
+      "id": "c3be9b68-4da9-4996-b049-af150e081a00",
+      "lastModified": "2018-05-21T10:39:17.046+02:00",
+      "name": "my-project",
+      "remoteModification": "2018-05-21T08:38:39.107Z"
+    },
+    {
+      "type": "Scenario",
+      "id": "078214de-0e83-4b94-9d66-2edbb4fb1d40",
+      "lastModified": "2018-05-21T10:37:54.661+02:00",
+      "name": "Scenario 1",
+      "requestOrder": [],
+      "parentId": "c3be9b68-4da9-4996-b049-af150e081a00"
+    }
+  ]
+}
